@@ -1,0 +1,8 @@
+2023-06-17 17:06:175 INFO  HomePage :23 - clicking on Eighteen Plus Logo : [[ChromeDriver: chrome on WINDOWS (96e07986c8684b21dddf06bd114bb851)] -> xpath: //span[contains(text(),'Online Slots')]]
+2023-06-17 17:06:404 INFO  OnlineSlotsPage :25 - Getting text from : [[ChromeDriver: chrome on WINDOWS (96e07986c8684b21dddf06bd114bb851)] -> xpath: //h1[contains(text(),'Play Online Slots at Virgin Games')]]
+2023-06-17 17:06:921 INFO  HomePage :23 - clicking on Eighteen Plus Logo : [[ChromeDriver: chrome on WINDOWS (02ae36f227bf96e282abee7a8b77b2ae)] -> xpath: //span[contains(text(),'Online Slots')]]
+2023-06-17 17:06:232 INFO  OnlineSlotsPage :25 - Getting text from : [[ChromeDriver: chrome on WINDOWS (02ae36f227bf96e282abee7a8b77b2ae)] -> xpath: //h1[contains(text(),'Play Online Slots at Virgin Games')]]
+2023-06-17 17:06:659 INFO  HomePage :23 - clicking on Eighteen Plus Logo : [[ChromeDriver: chrome on WINDOWS (192262262a68abc2089f4e7c11403f7f)] -> xpath: //span[contains(text(),'Online Slots')]]
+2023-06-17 17:06:04 INFO  OnlineSlotsPage :25 - Getting text from : [[ChromeDriver: chrome on WINDOWS (192262262a68abc2089f4e7c11403f7f)] -> xpath: //h1[contains(text(),'Play Online Slots at Virgin Games')]]
+2023-06-17 17:06:10 INFO  HomePage :23 - clicking on Eighteen Plus Logo : [[ChromeDriver: chrome on WINDOWS (a211dc4e3d4319a06c71c8b2b6385532)] -> xpath: //span[contains(text(),'Online Slots')]]
+2023-06-17 17:06:295 INFO  OnlineSlotsPage :25 - Getting text from : [[ChromeDriver: chrome on WINDOWS (a211dc4e3d4319a06c71c8b2b6385532)] -> xpath: //h1[contains(text(),'Play Online Slots at Virgin Games')]]
